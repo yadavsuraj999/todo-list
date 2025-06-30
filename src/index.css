@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-blue{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaIkYxluxjfJTuro5eZBq6A1TaSkpgCGxEhU2zbevp0E0TK7G_gEdysHfFxWT5wq5ijMs&usqp=CAU");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
