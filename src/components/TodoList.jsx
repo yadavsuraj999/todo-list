@@ -62,7 +62,7 @@ const TodoList = () => {
               />
               <button
                 type="button"
-                className="bg-green-600 text-white rounded-lg p-2"
+                className="bg-green-600 hover:bg-green-700 duration-500 text-white rounded-lg p-2"
                 onClick={handleClick}
               >
                 Add Task
