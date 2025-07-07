@@ -102,11 +102,11 @@ const TodoList = () => {
          
             <div className="mt-6 h-full max-h-80 relative overflow-y-auto shadow-md sm:rounded-lg">
               <table className="w-full text-sm text-left text-gray-500">
-                <thead className="text-xs text-gray-700 uppercase bg-gray-50">
+                <thead className="text-xs text-gray-700 uppercase bg-slate-950">
                   <tr>
                     <th className="p-4"></th>
-                    <th className="px-3 sm:px-6 py-3 text-gray-700">Task</th>
-                    <th className="px-3 sm:px-6 py-3 text-gray-700">Status</th>
+                    <th className="px-3 sm:px-6 py-3 text-white">Task</th>
+                    <th className="px-3 sm:px-6 py-3 text-white">Status</th>
                   </tr>
                 </thead>
                 <tbody>
