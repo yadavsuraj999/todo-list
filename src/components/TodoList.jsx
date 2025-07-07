@@ -65,7 +65,7 @@ const TodoList = () => {
               </button>
             </div>
 
-            {/* Filter Buttons */}
+           
             <div className="flex flex-wrap justify-center gap-3">
               <button
                 className={`border-[3px] px-4 py-2 text-center rounded-2xl transition duration-300 ${
@@ -99,7 +99,7 @@ const TodoList = () => {
               </button>
             </div>
 
-            {/* Task List Table */}
+         
             <div className="mt-6 h-full max-h-80 relative overflow-y-auto shadow-md sm:rounded-lg">
               <table className="w-full text-sm text-left text-gray-500">
                 <thead className="text-xs text-gray-700 uppercase bg-gray-50">
